@@ -2,7 +2,7 @@
 
 PT 🇧🇷
 
-Eu sou a Paloma, mais conhecida como... Paloma! Sou desenvolvedora Front-End e atualmente trabalho _full-time_ na [@gft brasil](https://www.gft.com).
+Eu sou a Paloma, mais conhecida como... Paloma! Sou desenvolvedora front-end e atualmente trabalho _full-time_ na [@gft brasil](https://www.gft.com).
 Gosto de construir interfaces amigáveis, compartilhar conhecimento e acredito que com a tecnologia podemos criar um mundo melhor :)
 
 ### Hello!
