@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://discord.gg/palomaclaud#6822" target="_blank">
+  <a href="https://discord.com/users/1060253919328075887" target="_blank"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a> 
 
