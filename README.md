@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/palomaclaud" target="_blank">
-    <img height="180em" src="https://github-readme-stats-palomaclaud.vercel.app/api?username=palomaclaud&include_all_commits=true&count_private=true&show_icons=true&theme=noctis_minimus"/>
+    <img height="180em" src="https://github-readme-stats-gray-xi-84.vercel.app/api?username=palomaclaud&include_all_commits=true&count_private=true&show_icons=true&theme=noctis_minimus"/>
     <img height="180em" src="https://github-readme-stats-palomaclaud.vercel.app/api/top-langs/?username=palomaclaud&layout=compact&langs_count=7&theme=noctis_minimus"/>
   </a>
 </div>
