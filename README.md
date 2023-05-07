@@ -32,6 +32,10 @@
 
   <a href="mailto:paloma.claud@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+
+  <a href="https://www.hackerrank.com/palomaclaud" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-0e141e?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 
   <a href="https://discord.com/users/1060253919328075887" target="_blank"> 
