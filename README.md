@@ -53,12 +53,6 @@ Hoje, como Coordenadora de Engenharia na Goomer, lidero o time unindo tecnologia
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 
-**Code Editors:**
-
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
-![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)
-
 **Ferramentas Colaborativas:**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
