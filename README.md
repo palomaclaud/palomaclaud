@@ -4,7 +4,7 @@ Meu nome é ✨ **Paloma Claudino**! Seja bem vinda(o) ao meu `perfil`.
 
 Tenho mais de 13 anos de experiência em engenharia de software e desenvolvimento front-end, com foco em usabilidade, performance e experiência do usuário. Minha base técnica foi moldada em contextos desafiadores (consultorias e produtos de grande escala), com React.js, TypeScript, JavaScript, Redux & Angular.
 
-Hoje, como Coordenadora de Engenharia na Goomer, lidero o time unindo tecnologia, propósito e excelência técnica. Acredito que o papel da liderança é trazer clareza e segurança, para que o time possa entregar seu melhor; e que autonomia e confiança são os maiores aceleradores de um produto saudável.
+Hoje, como Coordenadora de Tecnologia na Goomer, lidero o time unindo tecnologia, propósito e excelência técnica. Acredito que o papel da liderança é trazer clareza e segurança, para que o time possa entregar seu melhor; e que autonomia e confiança são os maiores aceleradores de um produto saudável.
 
 ## 🚀 Minhas Skills
 
